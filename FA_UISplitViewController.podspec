@@ -20,7 +20,7 @@ s.homepage         = "https://github.com/lauracpierre/FA_UISPlitViewController"
 s.license          = 'MIT'
 s.author           = { "Pierre Laurac" => "pierre.laurac@gmail.com" }
 s.source           = { :git => "https://github.com/lauracpierre/FA_UISplitViewController.git", :tag => "v#{s.version}" }
-
+s.swift_version = '4.2'
 s.platform     = :ios, '9.0'
 s.requires_arc = true
 
